@@ -5,7 +5,7 @@ import os
 
 setup(
     name = "django-secdownload-storage",
-    version = "0.1.0",
+    version = "0.1.1",
     url = 'https://bitbucket.org/ionelmc/django-secdownload-storage',
     download_url = '',
     license = 'BSD',
