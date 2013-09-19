@@ -66,3 +66,8 @@ Configuration
 * SEC_DOWNLOAD_MEDIA_URL - this is the prefix path that's used instead of MEDIA_URL when 
   SEC_DOWNLOAD_ENABLED is set to True. If SEC_DOWNLOAD_ENABLED is set to False 
   SecDownloadFileSystemStorage will use MEDIA_URL for the prefix instead.
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/ionelmc/django-secdownload-storage/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
