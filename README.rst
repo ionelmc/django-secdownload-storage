@@ -2,6 +2,10 @@
 django-secdownload-storage
 ==========================
 
+.. image:: https://badge.fury.io/py/django-secdownload-storage.png
+    :alt: PYPI Package
+    :target: https://pypi.python.org/pypi/django-secdownload-storage
+
 Django storage backend that can be used to serve files via lighttpd's mod_secdownload module. This 
 storage backend is an extension to the reqular FileSystemStorage that will generate proper signed 
 download urls.
